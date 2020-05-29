@@ -1,10 +1,15 @@
 import React from 'react';
-import { BrowserRouter, Route } from 'react-router-dom';
+import { BrowserRouter, Route, Link } from 'react-router-dom';
 
 export default function App() {
   return (
-    <BrowserRouter>
-      <div>App</div>
-    </BrowserRouter>
+    <div>
+      <BrowserRouter>
+        <div>
+          <Route></Route>
+          <Route></Route>
+        </div>
+      </BrowserRouter>
+    </div>
   );
 }
