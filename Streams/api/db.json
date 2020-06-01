@@ -6,20 +6,10 @@
       "id": 1
     },
     {
-      "title": "Another New One",
-      "description": "This is the Second One",
-      "id": 2
-    },
-    {
-      "title": "This is the third",
-      "description": "number 3",
-      "id": 3
-    },
-    {
-      "title": "I Created This One",
-      "description": "This was made by me",
+      "title": "This is the newest Stream ",
+      "description": "Check out this new Stream",
       "userId": "112262709218342817039",
-      "id": 4
+      "id": 2
     }
   ]
 }
