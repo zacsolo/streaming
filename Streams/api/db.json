@@ -6,9 +6,14 @@
       "id": 1
     },
     {
-      "title": "My Stream",
-      "description": "This is a great stream!",
+      "title": "Another New One",
+      "description": "This is the Second One",
       "id": 2
+    },
+    {
+      "title": "This is the third",
+      "description": "number 3",
+      "id": 3
     }
   ]
 }
