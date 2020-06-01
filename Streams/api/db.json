@@ -1,13 +1,14 @@
 {
   "streams": [
     {
-      "title": "My Stream",
-      "description": "This is a great stream!",
+      "title": "This is a New Stream",
+      "description": "Check out this new stream",
+      "userId": "112262709218342817039",
       "id": 1
     },
     {
-      "title": "This is the newest Stream ",
-      "description": "Check out this new Stream",
+      "title": "Another Stream",
+      "description": "Yet another",
       "userId": "112262709218342817039",
       "id": 2
     }
