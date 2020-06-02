@@ -1,5 +1,9 @@
-import React from 'react';
+import React, { Component } from 'react';
 
-export default function StreamShow() {
-  return <div>StreamShow</div>;
+export class StreamShow extends Component {
+  render() {
+    return <div>This is a Stream Show!</div>;
+  }
 }
+
+export default StreamShow;
