@@ -6,14 +6,10 @@
       "id": 1
     },
     {
-      "title": "Another Stream",
-      "description": "I just edited this form",
+      "title": "Lord of The Rings Fans",
+      "description": "We like lord of the rings, this is our channel",
+      "userId": "112262709218342817039",
       "id": 2
-    },
-    {
-      "title": "new",
-      "description": "new",
-      "id": 3
     }
   ]
 }
