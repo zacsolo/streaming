@@ -4,6 +4,12 @@
       "title": "This is a New Stream",
       "description": "new Stream",
       "id": 1
+    },
+    {
+      "title": "Check Out This Brand New Streaming Channel",
+      "description": "This is a new one",
+      "userId": "112262709218342817039",
+      "id": 2
     }
   ]
 }
